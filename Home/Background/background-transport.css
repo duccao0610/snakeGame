@@ -1,5 +1,6 @@
 html{
     background-image: url("../Photos/background-transport.gif");
     background-attachment: fixed;
+    background-size : 100% 100%;
 
 }
